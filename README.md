@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @mahinurrah
-- 👀 I’m interested in C++ & Python 
-- 🌱 I’m currently learning frontend development 
-  
+- 👋 Hi, I’m @kmmahinurrahman
+- 👀 I’m interested in C++ & Python. 
+- 🌱 I’m currently learning C-language & Web development.
+- 🤝I’m looking to collaborate on GitHub.
+- 🧐 I’m looking for help with ChatGPT and YouTube.
+- 🤚 How to reach me: WhatsApp & LinkedIn.
 
 <!---
 mahinurrah/mahinurrah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
