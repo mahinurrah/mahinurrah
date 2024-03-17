@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kmmahinurrahman
-- 👀 I’m interested in C++ & Python. 
+- 👀 I’m interested in C,C++ & Python. 
 - 🌱 I’m currently learning C-language & Web development.
 - 🤝I’m looking to collaborate on GitHub.
 - 🧐 I’m looking for help with ChatGPT and YouTube.
